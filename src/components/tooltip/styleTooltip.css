@@ -1,0 +1,13 @@
+.tooltip {  
+    background-color: #333;
+    color: white;
+    border-radius: 4px;
+    height: 15px;
+    box-sizing: border-box;
+  }
+
+  .tooltip_text{
+    align-items: center;
+    font-size: 12px;
+    color: #FFFFFF;
+  }

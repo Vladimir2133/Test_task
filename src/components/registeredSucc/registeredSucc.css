@@ -1,0 +1,34 @@
+.registered_block{
+    width: 100%;
+    text-align: center;
+    margin: 100px auto;
+    border-bottom: 1px solid #D0CFCF;
+    
+}
+.success_title{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 40px;
+    color: rgba(0, 0, 0, 0.87);
+}
+
+.success-image{
+    margin: 50px auto;
+}
+
+.copyrite{
+    display: flex;
+    border-top: .5px solid #000;
+}
+
+.copyrite p{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: rgba(0, 0, 0, 0.87);
+}
+
